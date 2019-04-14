@@ -9,7 +9,7 @@
 		"structure": [
 			{
 				"name": "orderId",
-				"type": "String"
+				"type": "Int32"
 			},
 			{
 				"name": "orderDate",
